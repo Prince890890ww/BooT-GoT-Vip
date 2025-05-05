@@ -26,7 +26,7 @@
     "whiteListIds": [],
     "notes": "if you enable this feature, only the ids in the whiteListIds section can use the bot"
   },
-  "nickNameBot": "*☆A̲S̲S̲I̲S̲T̲A̲N̲T̲S̲H̲Z̲K̲A̲☆J̲U̲N̲I̲O̲R̲☆*",
+  "nickNameBot": "**",
   "prefix": "!",
   "database": {
     "type": "sqlite",
